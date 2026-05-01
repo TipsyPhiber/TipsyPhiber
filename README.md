@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on — Project Vulcan, a full Purdue model cyber range simulating real-world infrastructure at scale<br>👯 Looking to collaborate on — infrastructure automation, observability tooling, and resilient system design<br>🤝 Looking for help with — scaling distributed systems and Kubernetes orchestration<br>🌱 Currently learning — SRE principles, incident management, and cloud-native architecture<br>💬 Ask me about — JavaScript, Node.js, infrastructure security, or building cyber ranges<br>⚡ Fun fact — I built a full Purdue model cyber range to understand how critical infrastructure actually breaks
+🔭 Currently working on — Project Vulcan, a full Purdue model cyber range simulating real-world infrastructure at scale<br>👯 Looking to collaborate on — infrastructure automation, observability tooling, and resilient system design<br>🤝 Looking for help with — scaling distributed systems and Kubernetes orchestration<br>🌱 Currently learning — SRE principles, incident management, and cloud-native architecture<br>💬 Ask me about — JavaScript, Node.js, infrastructure security, or building cyber ranges<br>⚡ Fun fact — I have a great recipe for japanese potato salad
 
 
 # 💻 Tech Stack:
